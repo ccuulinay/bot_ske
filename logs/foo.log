@@ -1,0 +1,16 @@
+[2018-05-21 23:51:56,355] {/Users/ccuulinay/github_proj/bot_ske/chat_app/page_routers.py:11} INFO - Info
+[2018-05-21 23:51:58,427] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:10} WARNING - A warning occurred (42 apples)
+[2018-05-21 23:51:58,428] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:14} INFO - None
+[2018-05-21 23:51:58,428] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:15} INFO - Info
+Info
+A warning occurred (42 apples)
+None
+Info
+[2018-05-21 23:53:15,442] {/Users/ccuulinay/github_proj/bot_ske/chat_app/page_routers.py:11} INFO - Info
+[2018-05-21 23:53:18,007] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:10} WARNING - A warning occurred (42 apples)
+[2018-05-21 23:53:18,009] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:14} INFO - None
+[2018-05-21 23:53:18,009] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:15} INFO - Info
+[2018-05-21 23:53:47,310] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:14} INFO - {'_xsrf': '2|3f0fa2ba|44e11eca3259e1b28319a5e27cf08fdd|1526915288'}
+[2018-05-21 23:53:47,314] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:15} INFO - Info
+[2018-05-21 23:55:25,639] {/Users/ccuulinay/github_proj/bot_ske/chat_app/page_routers.py:14} INFO - 127.0.0.1
+[2018-05-21 23:55:27,615] {/Users/ccuulinay/github_proj/bot_ske/chat_app/data_routers.py:14} INFO - 127.0.0.1
