@@ -6,7 +6,8 @@ from chat_app import chat_app as app
 
 @app.route("/data/mirror", methods=['POST'])
 def mirror():
-    message = request.form['messageText'].encode('utf-8').strip()
+    # message = request.form['messageText'].encode('utf-8').strip()
+    message = request.form['messageText'].strip()
     # app.logger.warning('A warning occurred (%d apples)', 42)
     # app.logger.error('An error occurred')
     ip = request.remote_addr
